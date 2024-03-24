@@ -1,0 +1,46 @@
+<PAMDataset>
+  <Subdataset name="NED_DEM_10m_TC">
+    <PAMDataset>
+      <Metadata domain="IMAGE_STRUCTURE">
+        <MDI key="INTERLEAVE">PIXEL</MDI>
+      </Metadata>
+      <Metadata>
+        <MDI key="IDENTIFIER">NED_DEM_10m_TC</MDI>
+        <MDI key="ZOOM_LEVEL">5</MDI>
+      </Metadata>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="NED_DEM_TC">
+    <PAMDataset>
+      <Metadata domain="IMAGE_STRUCTURE">
+        <MDI key="INTERLEAVE">PIXEL</MDI>
+      </Metadata>
+      <Metadata>
+        <MDI key="IDENTIFIER">NED_DEM_TC</MDI>
+        <MDI key="ZOOM_LEVEL">5</MDI>
+      </Metadata>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="Aspect_TC">
+    <PAMDataset>
+      <Metadata domain="IMAGE_STRUCTURE">
+        <MDI key="INTERLEAVE">PIXEL</MDI>
+      </Metadata>
+      <Metadata>
+        <MDI key="IDENTIFIER">Aspect_TC</MDI>
+        <MDI key="ZOOM_LEVEL">5</MDI>
+      </Metadata>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="Slope_TC">
+    <PAMDataset>
+      <Metadata domain="IMAGE_STRUCTURE">
+        <MDI key="INTERLEAVE">PIXEL</MDI>
+      </Metadata>
+      <Metadata>
+        <MDI key="IDENTIFIER">Slope_TC</MDI>
+        <MDI key="ZOOM_LEVEL">5</MDI>
+      </Metadata>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>
